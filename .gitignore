@@ -1,0 +1,37 @@
+# Node.js
+
+# React build files
+build/
+dist/
+*.log
+*.env
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.idea/
+
+# npm / yarn audit results
+.npm/
+.yarn/
+
+# Jest coverage output
+coverage/
+
+# log files
+*.log
+
+# Temporary files
+*.swp
